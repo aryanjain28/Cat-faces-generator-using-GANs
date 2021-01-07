@@ -15,6 +15,38 @@ A simple DC-GAN model that generates cool faces of cats.
 
 # Screenshots:
 
+<p align="center">
+<table align="center" border="1">
+  
+ <tr>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_00.png" height="200" /></td>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_10.png" height="200" /></td>
+ </tr>
+ 
+ <tr>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_20.png" height="200" /></td>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_30.png" height="200" /></td>
+ </tr>
+ 
+ <tr>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_40.png" height="200" /></td>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_50.png" height="200" /></td>
+ </tr>
+ 
+ <tr>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_60.png" height="200" /></td>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_70.png" height="200" /></td>
+ </tr>
+ 
+ <tr>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_80.png" height="200" /></td>
+  <td><img align="center" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/Screenshots/IMAGE_EPOCH_99.png" height="200" /></td>
+ </tr>
+
+</table>
+</p>
+
+
 # References:
 
 1. https://medium.com/@znyiregy/gan-implementation-with-keras-for-generating-cat-faces-388cd1688731
