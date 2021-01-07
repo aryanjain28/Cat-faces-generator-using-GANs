@@ -7,6 +7,12 @@ A simple DC-GAN model that generates cool faces of cats.
 2. Main module: PyTorch
 4. Others: tqdm, cv2
 
+# Model Architecture:
+
+<br>
+<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-Resume/master/Screenshots/Screenshot1.png"></p>
+<br>
+
 # Screenshots:
 
 # References:
