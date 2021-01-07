@@ -10,7 +10,7 @@ A simple DC-GAN model that generates cool faces of cats.
 # Model Architecture:
 
 <br>
-<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/My-Resume/master/Screenshots/Screenshot1.png"></p>
+<p align="center"><img width="460" src="https://raw.githubusercontent.com/aryanjain28/Cat-faces-generator-using-GANs/main/CatModel.png"></p>
 <br>
 
 # Screenshots:
