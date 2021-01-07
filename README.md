@@ -1,4 +1,4 @@
-# Cat faces generator using GANs.
+# Cat faces generator using GANs (^._.^)
 
 A DC-GAN model that generates cool faces of cats.
 
